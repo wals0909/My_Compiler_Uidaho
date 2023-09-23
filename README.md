@@ -14,11 +14,11 @@ Create a symbol table, and sematics analyzer to translate given text.
 ## Assignment 4 Error Handling
 Check for all bad symbols, characters, text, and handle errors.
 
-## Assignment 5 Imrove Error Handling
+## Assignment 5 Improve Error Handling
 Using yyerror add and improve errors, add more info about error types. 
 
 ## Assignment 6 Code Generation Prep
 Prepare compiler for code generation by computing scope, size, and location of each symbol.
 
-## Assignment 7 Final Compiler
+## Assignment 7 Compiler Complete
 Compiler complete, generate three address TM- Code correctly. 
